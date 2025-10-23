@@ -8,5 +8,5 @@
 ## [Node Blocks](./NodeBlocks)
 ### - [2D/Binary Lipsync](./NodeBlocks/2D-Lipsync)
 ### - [Quich Blink Squish](./NodeBlocks/Blink-Squish)
-### - [Rotate Eyes to Camera](./NodeBlocks/Loot-At-Camera)
+### - [Rotate Eyes to Camera](./NodeBlocks/Look-At-Camera)
 ## [Scripts](./Scripts)
