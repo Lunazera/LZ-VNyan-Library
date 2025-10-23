@@ -1,2 +1,2 @@
 # LZ VNyan Projects
-Various things I've made in VNyan, from small graphs or node blocks to plugins
+ Various examples, node blocks, graphs, assets and scripts I've made for VNyan that doesn't have anywhere else to go :3 
