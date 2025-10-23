@@ -4,7 +4,6 @@
 - this uses the Text Array size, chooses a random number between 1 and [size], subtracts 1 to be in array range, then indexes the filename there. 
 - Concatenates with path when the sound is loaded
 
-
 ## Instructions
 Copy the codeblocks below or in the text file and import it a graph
 
