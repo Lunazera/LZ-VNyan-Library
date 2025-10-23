@@ -1,0 +1,34 @@
+{
+    "bones": 4,
+    "name": "Lattice Blink",
+    "inputs": [
+        {
+            "isBlendshape": true,
+            "valueName": "eyeBlinkLeft",
+            "multiplier": 4.0,
+            "isRotation": true
+        },
+        {
+            "isBlendshape": true,
+            "valueName": "eyeBlinkRight",
+            "multiplier": 4.0,
+            "isRotation": true
+        }
+    ],
+    "outputs": [
+        {
+            "bone": 2,
+            "blendshape": "",
+            "negative": "",
+            "param": "headsquish",
+            "multiplier": 0.5,
+            "gameObject": "",
+            "offset": 0.0,
+            "transform": 0
+        }
+    ],
+    "damping": 0.30000001192092898,
+    "elasticity": 0.12999999523162843,
+    "stiffness": 0.05000000074505806,
+    "inert": 0.10000000149011612
+}
