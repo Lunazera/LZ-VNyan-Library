@@ -28,4 +28,4 @@ I made a video tutorial for this :3 also attached is the pendulum chain referenc
 - Add the pendulum chain file to see an example of controlling this animation with your eyeblinks!
 
 ## Video Tutorial
-[![](Lattice-Modifiers-Tutorial.mp4)]
+https://git.gay/lunazera/LZ-VNyan-Library/raw/branch/main/Guides/Lattice-Modifier/Lattice-Modifiers-Tutorial.mp4
