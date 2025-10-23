@@ -1,0 +1,542 @@
+{
+    "graphName": "Tiltify Example",
+    "graphIsActive": true,
+    "nodes": [
+        {
+            "id": "a4b611e7-fea6-44f9-9b34-b7df23fa9b24",
+            "values": [
+                {
+                    "key": "v1",
+                    "value": ""
+                },
+                {
+                    "key": "v2",
+                    "value": "1"
+                }
+            ],
+            "posX": 562.0,
+            "posY": 192.0000457763672,
+            "path": "Nodes/CompareDecimalNode",
+            "inputSocketIds": [
+                "6476065e-3c30-4342-9612-9e7b6e81a59f638545804570354138"
+            ],
+            "outputSocketIds": [
+                "db88f2d6-004b-4513-9dfc-117b40967f54638545804570354138",
+                "2e660f15-96a7-4f80-98e3-c41678b19457638545804570354138",
+                "fd9d2a3c-7512-451b-96d7-9a61d700e0a3638545804570354138"
+            ],
+            "headerColor": 0,
+            "inputValueSocketIds": [
+                "ad8e92c7-b28c-41ce-82d0-866e93aa35aa638545804570354138",
+                "64c9e9d5-4e38-4e45-a5b1-fa6a3fd13746638545804570354138"
+            ],
+            "outputValueSocketIds": []
+        },
+        {
+            "id": "b949f279-4442-4019-8f67-98b0caf903ca",
+            "values": [
+                {
+                    "key": "v1",
+                    "value": ""
+                },
+                {
+                    "key": "v2",
+                    "value": "5"
+                }
+            ],
+            "posX": 540.666748046875,
+            "posY": -160.33334350585938,
+            "path": "Nodes/CompareDecimalNode",
+            "inputSocketIds": [
+                "2a52de82-ef56-4124-be69-5605c97a23f4638545807284045765"
+            ],
+            "outputSocketIds": [
+                "aba4afd3-47b9-485c-b220-802b5b8fd42a638545807284045765",
+                "e8f60660-3267-483f-906e-8d0ff4eee76a638545807284045765",
+                "3762a512-141c-4c3e-9d23-03e858bc4ef9638545807284045765"
+            ],
+            "headerColor": 0,
+            "inputValueSocketIds": [
+                "aa8efe0b-c82f-465f-ac48-703c0d7fbec7638545807284045765",
+                "8c1b19e7-f6ae-4846-97b1-ff402545b5db638545807284045765"
+            ],
+            "outputValueSocketIds": []
+        },
+        {
+            "id": "bfb6a461-cfa9-4ce9-a305-baade5fc20bb",
+            "values": [
+                {
+                    "key": "v1",
+                    "value": ""
+                },
+                {
+                    "key": "v2",
+                    "value": "10"
+                }
+            ],
+            "posX": 529.0,
+            "posY": -511.66668701171877,
+            "path": "Nodes/CompareDecimalNode",
+            "inputSocketIds": [
+                "9a497fb8-2350-4a27-857e-c6b630e93319638545807314093573"
+            ],
+            "outputSocketIds": [
+                "19656d6e-4ef9-42a9-afde-d228fc3fb77e638545807314093573",
+                "b0fb7593-79f8-411c-96c5-258e49a595a7638545807314093573",
+                "30eecf93-c1a9-4bd6-892e-674a7b288f2e638545807314093573"
+            ],
+            "headerColor": 0,
+            "inputValueSocketIds": [
+                "1981cb94-c002-4666-9b8c-ac9278e38a62638545807314093573",
+                "a92a6c8b-61d6-4c9b-b128-4129b723bcfe638545807314093573"
+            ],
+            "outputValueSocketIds": []
+        },
+        {
+            "id": "f4921116-bdd9-41c6-be96-30bc4019dafb",
+            "values": [],
+            "posX": 240.33319091796876,
+            "posY": 179.6666717529297,
+            "path": "Nodes/TiltifyDonationNode",
+            "inputSocketIds": [],
+            "outputSocketIds": [
+                "c1e6e654-9e86-40c2-943f-6ade9d050f70638545811121570418"
+            ],
+            "headerColor": 6,
+            "inputValueSocketIds": [],
+            "outputValueSocketIds": [
+                "f35a1fcf-6895-4b62-9352-90016a51177f638545811121570418",
+                "840c5edb-3755-4efe-910f-fc62e782ee93638545811121570418",
+                "09cea421-7ec0-4970-98c3-8c5832f0d41d638545811121570418",
+                "696c6e1b-c85b-4903-a4a0-d6e165081924638545811121570418"
+            ]
+        },
+        {
+            "id": "8798ea8d-5b75-4855-bb65-5ad4966c4452",
+            "values": [
+                {
+                    "key": "v1",
+                    "value": ""
+                },
+                {
+                    "key": "v2",
+                    "value": "50"
+                }
+            ],
+            "posX": 529.3333740234375,
+            "posY": -864.333251953125,
+            "path": "Nodes/CompareDecimalNode",
+            "inputSocketIds": [
+                "9a3e2f01-7951-45fc-be95-5f8c650afcab638548475779649048"
+            ],
+            "outputSocketIds": [
+                "77cc8328-cb36-4b46-ad19-8c2366348032638548475779658964",
+                "41f7bbc4-2ae6-4fcf-95ee-6f2d093e3bca638548475779658964",
+                "14702158-d9c7-4778-8551-73c61e82aeba638548475779658964"
+            ],
+            "headerColor": 0,
+            "inputValueSocketIds": [
+                "3d282144-aa27-4575-8d23-0cbbe6086c61638548475779658964",
+                "760b063c-4ec0-431b-ad52-2417ad5aafe8638548475779658964"
+            ],
+            "outputValueSocketIds": []
+        },
+        {
+            "id": "f7b3c3fb-0520-4ad9-8b96-d6d5db388128",
+            "values": [
+                {
+                    "key": "message",
+                    "value": "<size=20>Tiltify Example</size>\nThis handles different donation amounts from your Tiltify campaign. It takes the Amount and checks whether it is $1, $5, $10, or $50. \n\n- This uses Call Triggers for each amount which you can use in other graphs using Trigger nodes, but you can also just remove them and build the events right in here.\n- If you want to use different amounts, change the numbers in the Compare Decimal nodes, or add a new node in the chain.\u000B- If you want to use a range of amount instead of a specific amount, adjust the wiring with the equals/less than/greater than sockets"
+                }
+            ],
+            "posX": -152.00018310546876,
+            "posY": 115.9951171875,
+            "path": "Nodes/MessageBoxNode",
+            "inputSocketIds": [],
+            "outputSocketIds": [],
+            "headerColor": 0,
+            "inputValueSocketIds": [],
+            "outputValueSocketIds": []
+        },
+        {
+            "id": "cbe7faa4-c57f-49fc-96a0-35ac42f347f1",
+            "values": [
+                {
+                    "key": "triggerName",
+                    "value": "Dono1"
+                },
+                {
+                    "key": "callTime",
+                    "value": "1"
+                }
+            ],
+            "posX": 831.6664428710938,
+            "posY": 125.32839965820313,
+            "path": "Nodes/CallTriggerNode",
+            "inputSocketIds": [
+                "4d5a6f24-6fff-48ea-b1cf-8a04c71e7a53638548476383590257"
+            ],
+            "outputSocketIds": [],
+            "headerColor": 3,
+            "inputValueSocketIds": [
+                "8b3b8565-8dd7-416e-929a-ebaf9f7f17e8638548476383590257",
+                "0803216c-46df-4139-9ade-b37ee6d8b87f638548476383590257",
+                "245ba771-53b8-438d-a686-c58d0d8006de638548476383590257",
+                "8fd7cde9-2cab-4af7-8ab2-78d4ca2a8c4c638548476383590257",
+                "4796b675-ad6b-4d4d-9c63-a8577baddece638548476383590257",
+                "66d3c3c9-5002-4dee-9bc3-3b6b76f1e80b638548476383590257",
+                "92e36e0c-fa7e-4299-9407-979bdde17718638548476383590257"
+            ],
+            "outputValueSocketIds": []
+        },
+        {
+            "id": "54a32c06-6c36-423a-82a5-2be8f802a9ff",
+            "values": [
+                {
+                    "key": "triggerName",
+                    "value": "Dono5"
+                },
+                {
+                    "key": "callTime",
+                    "value": "1"
+                }
+            ],
+            "posX": 830.6664428710938,
+            "posY": -240.0049285888672,
+            "path": "Nodes/CallTriggerNode",
+            "inputSocketIds": [
+                "4d4430e9-35ab-4812-9671-3bf9ca10aa5d638548477130969038"
+            ],
+            "outputSocketIds": [],
+            "headerColor": 3,
+            "inputValueSocketIds": [
+                "380d68f4-1fb7-4ae9-b3a2-b154a44bbe57638548477130969038",
+                "420e0fad-5bf7-447c-852d-e0b5ad125cf1638548477130969038",
+                "620acbc0-1981-41ab-9710-eb2db2b399e7638548477130969038",
+                "6d655779-0f7c-480d-8776-a6b48c7233d3638548477130969038",
+                "ede8f572-633b-4f79-b70b-039c7a4a8f0e638548477130969038",
+                "1ce16ee1-5f3c-4d17-a59c-62001688a261638548477130969038",
+                "739a3b71-40e3-42a3-b276-92f96a70583b638548477130969038"
+            ],
+            "outputValueSocketIds": []
+        },
+        {
+            "id": "a155173a-c26c-4911-aecc-5fb7b4da99b5",
+            "values": [
+                {
+                    "key": "triggerName",
+                    "value": "Dono10"
+                },
+                {
+                    "key": "callTime",
+                    "value": "1"
+                }
+            ],
+            "posX": 822.9996948242188,
+            "posY": -595.0049438476563,
+            "path": "Nodes/CallTriggerNode",
+            "inputSocketIds": [
+                "c30f6016-2fd3-4d0f-ab08-14d21fa2497f638548477387382722"
+            ],
+            "outputSocketIds": [],
+            "headerColor": 3,
+            "inputValueSocketIds": [
+                "cfad8e15-88aa-4955-b1b9-11b601261c5d638548477387382722",
+                "aec0075d-c21d-4f92-99ce-a12f402f72f5638548477387382722",
+                "a43aed24-8d50-4993-a593-0b1d37179d58638548477387382722",
+                "00a158ee-b19b-4062-97c8-8d560dc1021f638548477387382722",
+                "a81557ed-b07c-43b1-a72f-df57bffd1f2e638548477387382722",
+                "cc0e9778-ef09-49f8-8045-81e53d7848a3638548477387382722",
+                "8b6778a6-f4ad-438a-ada2-467f3bb0fb2f638548477387382722"
+            ],
+            "outputValueSocketIds": []
+        },
+        {
+            "id": "7f3369eb-246b-45e7-9635-c437046025d1",
+            "values": [
+                {
+                    "key": "triggerName",
+                    "value": "Dono50"
+                },
+                {
+                    "key": "callTime",
+                    "value": "1"
+                }
+            ],
+            "posX": 815.999755859375,
+            "posY": -941.6716918945313,
+            "path": "Nodes/CallTriggerNode",
+            "inputSocketIds": [
+                "29c61bfd-b4f2-4e0e-9ebf-1749420f9b14638548477462905581"
+            ],
+            "outputSocketIds": [],
+            "headerColor": 3,
+            "inputValueSocketIds": [
+                "a42ad0e6-7c1d-4df4-87b7-be5ad7f33846638548477462905581",
+                "b46eee7a-821c-4a46-ad01-9522d8595e52638548477462905581",
+                "be2b6379-60cf-44d0-8927-1f2fad84727f638548477462905581",
+                "7d808c4c-0c98-4cc2-95ef-7075a653b764638548477462905581",
+                "09821d75-17e2-4484-8624-99aa5d68da1e638548477462905581",
+                "0d540435-e36d-4d1d-82e3-967f8a4b8eb2638548477462905581",
+                "01ae4415-8aac-45de-b509-8be2e4de3f8c638548477462905581"
+            ],
+            "outputValueSocketIds": []
+        },
+        {
+            "id": "e88ca3fe-4f27-46ee-8234-5f9144b7de90",
+            "values": [
+                {
+                    "key": "message",
+                    "value": "<size=20>Testing this offline</size>\nBelow is also a quick setup for testing if your events will work without needing to donate. Put in the dollar amount in the Text to Number node below, and right-click -> send signal on the Trigger node to test it. \n\nThe nodes below that show a similar setup to the Tiltify graph on the right. You can use this how works best, either just wiring the compare decimal node to where you need or by wiring the red Trigger node in place of the Tiltify node completely."
+                }
+            ],
+            "posX": -152.0001983642578,
+            "posY": -450.0048828125,
+            "path": "Nodes/MessageBoxNode",
+            "inputSocketIds": [],
+            "outputSocketIds": [],
+            "headerColor": 1,
+            "inputValueSocketIds": [],
+            "outputValueSocketIds": []
+        },
+        {
+            "id": "9365176c-dfde-4b0f-bea9-5abc6b55ed4d",
+            "values": [
+                {
+                    "key": "triggerName",
+                    "value": "TiltifyTest"
+                },
+                {
+                    "key": "callTime",
+                    "value": "1"
+                }
+            ],
+            "posX": -62.663787841796878,
+            "posY": -831.6661376953125,
+            "path": "Nodes/CallTriggerNode",
+            "inputSocketIds": [
+                "1c660884-d0d3-4cc9-a8c4-cdcc3cc19383638548488327414756"
+            ],
+            "outputSocketIds": [],
+            "headerColor": 1,
+            "inputValueSocketIds": [
+                "d41b194f-238d-4baa-a5e8-586515d6dd10638548488327414756",
+                "d5fee601-a89f-4919-ab69-849050b91851638548488327414756",
+                "0fba75d2-2208-4eca-8f4e-82bcbb8eca51638548488327414756",
+                "db329a28-aaba-460e-a874-c6f72a50eb7a638548488327414756",
+                "9b59a671-409f-44d5-97b6-971daf594c42638548488327414756",
+                "bca3dd7e-5a1d-4c58-9960-a0d8e45e8729638548488327414756",
+                "db282f22-a1a0-446c-8976-cd1e008fbec4638548488327414756"
+            ],
+            "outputValueSocketIds": []
+        },
+        {
+            "id": "fa4c7e9e-1dfb-43a0-8caf-cb142f99980c",
+            "values": [
+                {
+                    "key": "triggerName",
+                    "value": "SendTestSignal"
+                }
+            ],
+            "posX": -504.330322265625,
+            "posY": -724.6659545898438,
+            "path": "Nodes/TriggerNode",
+            "inputSocketIds": [],
+            "outputSocketIds": [
+                "a964f3f9-9e33-4c25-9d4d-421b4cb0726a638548488495729314"
+            ],
+            "headerColor": 6,
+            "inputValueSocketIds": [],
+            "outputValueSocketIds": [
+                "a11c64b6-5e61-4bd0-b0b6-df35a4fd269f638548488495729314",
+                "93a83a09-23cb-4a77-b7de-c1adbb08dd3a638548488495729314",
+                "7af150c0-bea3-44e9-8e73-220e76535471638548488495729314",
+                "0e671514-978a-4fb2-bc5b-b3a1012702e8638548488495729314",
+                "4abb37a6-ad0a-48e7-979d-73d8597416a1638548488495729314",
+                "55f3d6aa-892a-4e43-be60-bce28d8a3b0d638548488495729314"
+            ]
+        },
+        {
+            "id": "99c30801-5d3b-4650-8b43-05dc72123c9a",
+            "values": [
+                {
+                    "key": "text",
+                    "value": "5"
+                }
+            ],
+            "posX": -501.32958984375,
+            "posY": -918.3342895507813,
+            "path": "Nodes/TextToNumberNode",
+            "inputSocketIds": [],
+            "outputSocketIds": [],
+            "headerColor": 6,
+            "inputValueSocketIds": [
+                "b68f938b-6bf7-4a7d-9466-e2b74ff96cb3638548491198933337"
+            ],
+            "outputValueSocketIds": [
+                "a250ec37-ac33-45d5-949a-11abd12971e7638548491198933337"
+            ]
+        },
+        {
+            "id": "78185001-475b-4c88-96d9-29645498411c",
+            "values": [
+                {
+                    "key": "triggerName",
+                    "value": "TiltifyTest"
+                }
+            ],
+            "posX": -505.99700927734377,
+            "posY": -1124.6658935546875,
+            "path": "Nodes/TriggerNode",
+            "inputSocketIds": [],
+            "outputSocketIds": [
+                "07112515-37d8-43cf-8aeb-ffcfed125e23638548491457121492"
+            ],
+            "headerColor": 1,
+            "inputValueSocketIds": [],
+            "outputValueSocketIds": [
+                "5a2afddb-4a20-4cde-8bf2-27bdea56509f638548491457121492",
+                "753bc321-0155-450d-9b70-196d29b98985638548491457121492",
+                "96925d8b-da3e-4bb8-a8db-d222ece0e705638548491457121492",
+                "6e5cceb1-77d6-41f8-a383-e7cdf39fa285638548491457121492",
+                "b66ced78-0a1f-48fe-bf45-18ae2e83a56a638548491457121492",
+                "bbd6d230-73e8-471d-8e7e-329a67054ba1638548491457121492"
+            ]
+        },
+        {
+            "id": "076ef627-7085-4a6c-8100-9911b6b72d0e",
+            "values": [
+                {
+                    "key": "v1",
+                    "value": ""
+                },
+                {
+                    "key": "v2",
+                    "value": "5"
+                }
+            ],
+            "posX": -37.66661071777344,
+            "posY": -1125.66650390625,
+            "path": "Nodes/CompareDecimalNode",
+            "inputSocketIds": [
+                "56e78fe6-e478-4988-ace5-a5777a876a3c638548491695524872"
+            ],
+            "outputSocketIds": [
+                "d266db0e-85c1-4a7b-9a06-b76457f6c370638548491695524872",
+                "95e3b0d2-df19-4d05-9aea-c717e710adb7638548491695524872",
+                "47928db4-3f9d-471d-80d1-25a3eb5ed1a9638548491695524872"
+            ],
+            "headerColor": 6,
+            "inputValueSocketIds": [
+                "822a49f9-b4e5-4528-aa99-9304adfe46eb638548491695524872",
+                "6211f12b-e0be-4b1b-81d6-073599112cc5638548491695524872"
+            ],
+            "outputValueSocketIds": []
+        },
+        {
+            "id": "00b1a26f-94ee-4c7b-a870-867a810ed5b8",
+            "values": [],
+            "posX": -279.9998779296875,
+            "posY": -1139.332275390625,
+            "path": "Nodes/NumberToDecimalNode",
+            "inputSocketIds": [],
+            "outputSocketIds": [],
+            "headerColor": 1,
+            "inputValueSocketIds": [
+                "b1615969-54d6-4fbf-9b99-afdcb0ca8572638548491896461829"
+            ],
+            "outputValueSocketIds": [
+                "511e1d3f-1e11-417d-894e-e6ac4d25969e638548491896461829"
+            ]
+        }
+    ],
+    "connections": [
+        {
+            "id": "7f3570de-c4b8-4e82-94ef-ffd30f6f3cc6",
+            "outputSocketId": "db88f2d6-004b-4513-9dfc-117b40967f54638545804570354138",
+            "inputSocketId": "2a52de82-ef56-4124-be69-5605c97a23f4638545807284045765"
+        },
+        {
+            "id": "5ab4362b-cea1-4505-8994-c1a01a12fa90",
+            "outputSocketId": "aba4afd3-47b9-485c-b220-802b5b8fd42a638545807284045765",
+            "inputSocketId": "9a497fb8-2350-4a27-857e-c6b630e93319638545807314093573"
+        },
+        {
+            "id": "91c4e2ea-2012-4a2f-b549-d04ef88404b1",
+            "outputSocketId": "c1e6e654-9e86-40c2-943f-6ade9d050f70638545811121570418",
+            "inputSocketId": "6476065e-3c30-4342-9612-9e7b6e81a59f638545804570354138"
+        },
+        {
+            "id": "640cb073-7290-4385-bc7d-92ab75ffc7b9",
+            "outputSocketId": "19656d6e-4ef9-42a9-afde-d228fc3fb77e638545807314093573",
+            "inputSocketId": "9a3e2f01-7951-45fc-be95-5f8c650afcab638548475779649048"
+        },
+        {
+            "id": "4ddc1866-a7a5-4ae0-9b6d-34ca92db5fa3",
+            "outputSocketId": "2e660f15-96a7-4f80-98e3-c41678b19457638545804570354138",
+            "inputSocketId": "4d5a6f24-6fff-48ea-b1cf-8a04c71e7a53638548476383590257"
+        },
+        {
+            "id": "bf2498c0-fd55-4775-b20a-e57bf2d55cda",
+            "outputSocketId": "e8f60660-3267-483f-906e-8d0ff4eee76a638545807284045765",
+            "inputSocketId": "4d4430e9-35ab-4812-9671-3bf9ca10aa5d638548477130969038"
+        },
+        {
+            "id": "8a43540a-9e69-4c4e-94c3-91650d6739af",
+            "outputSocketId": "b0fb7593-79f8-411c-96c5-258e49a595a7638545807314093573",
+            "inputSocketId": "c30f6016-2fd3-4d0f-ab08-14d21fa2497f638548477387382722"
+        },
+        {
+            "id": "2fa9467f-3dbc-4b4b-849a-8a530744cad2",
+            "outputSocketId": "41f7bbc4-2ae6-4fcf-95ee-6f2d093e3bca638548475779658964",
+            "inputSocketId": "29c61bfd-b4f2-4e0e-9ebf-1749420f9b14638548477462905581"
+        },
+        {
+            "id": "ffaf8deb-f640-43b1-b4bb-002c495cb96c",
+            "outputSocketId": "a964f3f9-9e33-4c25-9d4d-421b4cb0726a638548488495729314",
+            "inputSocketId": "1c660884-d0d3-4cc9-a8c4-cdcc3cc19383638548488327414756"
+        },
+        {
+            "id": "3d040025-084e-424a-a391-00ec8feed3bf",
+            "outputSocketId": "07112515-37d8-43cf-8aeb-ffcfed125e23638548491457121492",
+            "inputSocketId": "56e78fe6-e478-4988-ace5-a5777a876a3c638548491695524872"
+        }
+    ],
+    "valueConnections": [
+        {
+            "id": "056f7ef6-9bd4-4ea6-8ec2-781712675477",
+            "outputSocketId": "09cea421-7ec0-4970-98c3-8c5832f0d41d638545811121570418",
+            "inputSocketId": "ad8e92c7-b28c-41ce-82d0-866e93aa35aa638545804570354138"
+        },
+        {
+            "id": "38fa05f2-9603-449d-9c10-62dd4ddf8e23",
+            "outputSocketId": "09cea421-7ec0-4970-98c3-8c5832f0d41d638545811121570418",
+            "inputSocketId": "aa8efe0b-c82f-465f-ac48-703c0d7fbec7638545807284045765"
+        },
+        {
+            "id": "16a68cde-29c0-40f3-922c-9d2a9e689c81",
+            "outputSocketId": "09cea421-7ec0-4970-98c3-8c5832f0d41d638545811121570418",
+            "inputSocketId": "1981cb94-c002-4666-9b8c-ac9278e38a62638545807314093573"
+        },
+        {
+            "id": "877385bd-0fdf-44c5-9f00-a88efeb2eedf",
+            "outputSocketId": "a250ec37-ac33-45d5-949a-11abd12971e7638548491198933337",
+            "inputSocketId": "d5fee601-a89f-4919-ab69-849050b91851638548488327414756"
+        },
+        {
+            "id": "47bf8ca6-2273-4b65-a41e-71c6bc34f516",
+            "outputSocketId": "5a2afddb-4a20-4cde-8bf2-27bdea56509f638548491457121492",
+            "inputSocketId": "b1615969-54d6-4fbf-9b99-afdcb0ca8572638548491896461829"
+        },
+        {
+            "id": "7755736a-57d2-4bf8-ac74-84fe96777664",
+            "outputSocketId": "511e1d3f-1e11-417d-894e-e6ac4d25969e638548491896461829",
+            "inputSocketId": "822a49f9-b4e5-4528-aa99-9304adfe46eb638548491695524872"
+        },
+        {
+            "id": "805c643b-ad43-448e-8715-bcca41a118ca",
+            "outputSocketId": "09cea421-7ec0-4970-98c3-8c5832f0d41d638545811121570418",
+            "inputSocketId": "3d282144-aa27-4575-8d23-0cbbe6086c61638548475779658964"
+        }
+    ]
+}
