@@ -1,0 +1,34 @@
+{
+    "bones": 4,
+    "name": "EyeWide Right Jiggle",
+    "inputs": [
+        {
+            "isBlendshape": true,
+            "valueName": "eyeWideRight",
+            "multiplier": 20.0,
+            "isRotation": true
+        },
+        {
+            "isBlendshape": true,
+            "valueName": "eyeBlinkRight",
+            "multiplier": -0.05000000074505806,
+            "isRotation": false
+        }
+    ],
+    "outputs": [
+        {
+            "bone": 2,
+            "blendshape": "stretch_eyeWideRight",
+            "negative": "stretch_eyeNarrowRight",
+            "param": "",
+            "multiplier": 3.5,
+            "gameObject": "",
+            "offset": 0.0,
+            "transform": 0
+        }
+    ],
+    "damping": 0.07999999821186066,
+    "elasticity": 0.10000000149011612,
+    "stiffness": 0.10000000149011612,
+    "inert": 0.0
+}

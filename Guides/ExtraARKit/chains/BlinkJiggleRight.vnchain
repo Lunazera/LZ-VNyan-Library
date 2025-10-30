@@ -1,0 +1,48 @@
+{
+    "bones": 4,
+    "name": "Blink Jiggle Right",
+    "inputs": [
+        {
+            "isBlendshape": true,
+            "valueName": "eyeBlinkRight",
+            "multiplier": 1.5,
+            "isRotation": false
+        }
+    ],
+    "outputs": [
+        {
+            "bone": 2,
+            "blendshape": "stretch_irisTallRight",
+            "negative": "stretch_irisShortRight",
+            "param": "",
+            "multiplier": 0.20000000298023225,
+            "gameObject": "",
+            "offset": 0.0,
+            "transform": 0
+        },
+        {
+            "bone": 2,
+            "blendshape": "move_eyelashTipUpRight",
+            "negative": "move_eyelashTipDownRight",
+            "param": "",
+            "multiplier": 0.5,
+            "gameObject": "",
+            "offset": 0.0,
+            "transform": 0
+        },
+        {
+            "bone": 3,
+            "blendshape": "stretch_irisWideRight",
+            "negative": "stretch_irisNarrowRight",
+            "param": "",
+            "multiplier": 0.20000000298023225,
+            "gameObject": "",
+            "offset": 0.0,
+            "transform": 0
+        }
+    ],
+    "damping": 0.10000000149011612,
+    "elasticity": 0.05000000074505806,
+    "stiffness": 0.10000000149011612,
+    "inert": 0.05000000074505806
+}

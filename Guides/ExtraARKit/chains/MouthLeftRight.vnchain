@@ -1,0 +1,46 @@
+{
+    "bones": 4,
+    "name": "MouthLeftRight",
+    "inputs": [
+        {
+            "isBlendshape": true,
+            "valueName": "mouthLeft",
+            "multiplier": 0.5,
+            "isRotation": false
+        },
+        {
+            "isBlendshape": true,
+            "valueName": "mouthRight",
+            "multiplier": -0.5,
+            "isRotation": false
+        },
+        {
+            "isBlendshape": true,
+            "valueName": "_CameraLeft",
+            "multiplier": 25.0,
+            "isRotation": true
+        },
+        {
+            "isBlendshape": true,
+            "valueName": "_CameraRight",
+            "multiplier": -25.0,
+            "isRotation": true
+        }
+    ],
+    "outputs": [
+        {
+            "bone": 2,
+            "blendshape": "move_mouthRight",
+            "negative": "move_mouthLeft",
+            "param": "",
+            "multiplier": 2.0,
+            "gameObject": "",
+            "offset": 0.0,
+            "transform": 0
+        }
+    ],
+    "damping": 0.15000000596046449,
+    "elasticity": 0.10000000149011612,
+    "stiffness": 0.11999999731779099,
+    "inert": 0.05000000074505806
+}

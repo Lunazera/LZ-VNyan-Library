@@ -1,0 +1,48 @@
+{
+    "bones": 4,
+    "name": "Mouth Jiggle",
+    "inputs": [
+        {
+            "isBlendshape": true,
+            "valueName": "jawOpen",
+            "multiplier": 25.0,
+            "isRotation": true
+        }
+    ],
+    "outputs": [
+        {
+            "bone": 1,
+            "blendshape": "",
+            "negative": "",
+            "param": "",
+            "multiplier": 25.0,
+            "gameObject": "Cheek_R",
+            "offset": 0.0,
+            "transform": 2
+        },
+        {
+            "bone": 1,
+            "blendshape": "",
+            "negative": "",
+            "param": "",
+            "multiplier": -25.0,
+            "gameObject": "Cheek_L",
+            "offset": 0.0,
+            "transform": 2
+        },
+        {
+            "bone": 2,
+            "blendshape": "stretch_mouthScaleUp",
+            "negative": "stretch_lipsNeg",
+            "param": "",
+            "multiplier": 0.75,
+            "gameObject": "",
+            "offset": 0.0,
+            "transform": 0
+        }
+    ],
+    "damping": 0.05000000074505806,
+    "elasticity": 0.05000000074505806,
+    "stiffness": 0.10000000149011612,
+    "inert": 0.15000000596046449
+}
