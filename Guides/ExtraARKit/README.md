@@ -1,6 +1,8 @@
 # ARKit Extra Pendulum Setup
 These are a list of additional blendshapes to create for your model to add organic feedback effects to your facetracking. We will create pendulum chains driven by different ARKit tracking blendshapes. You will need to create both positive and negative blendshapes for each of these (ie movement up and movement down)
 
+*(This guide is also published [here](https://publish.obsidian.md/lunazera/Publish+Site/Guides/ARKit+Extra+Pendulum+Setup))*
+
 I'll provide the lists of blendshapes here and reference images for what these should look like. I'll also have all the VNyan pendulum chains I use to drive these here (note some might have extra things on it for my own setup): https://git.gay/lunazera/LZ-VNyan-Library/src/branch/main/Guides/ExtraARKit/chains
 
 To set this up, we need to create new shapekeys on our mesh for all of these rather than using the existing ARKit shapekeys because we can't use those for our tracking and pendulum chains at the same time. We will also need to create left/right versions for many of these if the ARKit blendshape is Left/Right specific.
@@ -8,7 +10,7 @@ To set this up, we need to create new shapekeys on our mesh for all of these rat
 # Lists of Extra Blendshapes
 There's quite a bit here just because we have to create both left & right sides for many of them. I'll split them into groups for the mouth, eyes & brows, and iris & highlights.
 
-You can use my Generate mesh shape keys tool to quickly add these lists as blank blendshapes on your face mesh (once that update is out)
+You can use my blender [Generate mesh shape keys tool](https://git.gay/lunazera/Blender-Generate-Shapekeys) to quickly add these lists as blank blendshapes on your face mesh *(once that update is finished for it)*
 
 ## Mouth
 ```
